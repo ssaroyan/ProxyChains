@@ -36,13 +36,13 @@ proxychains --version
 ProxyChains reads its configuration from:
 
 ```text
-/etc/proxychains.conf
+/etc/proxychains4.conf
 ```
 
 Open the file:
 
 ```bash
-sudo nano /etc/proxychains.conf
+sudo nano /etc/proxychains4.conf
 ```
 
 Scroll to the bottom and locate:

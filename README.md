@@ -170,7 +170,7 @@ proxychains sudo apt update
 Edit the configuration file:
 
 ```bash
-sudo nano /etc/proxychains.conf
+sudo nano /etc/proxychains4.conf
 ```
 
 Comment out your proxy line:
